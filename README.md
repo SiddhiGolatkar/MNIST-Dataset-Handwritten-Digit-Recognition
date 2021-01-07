@@ -1,2 +1,3 @@
-# MNIST-Dataset-
-INSOFE - Project 18
+# MNIST-Dataset
+
+## INSOFE - Project 18
